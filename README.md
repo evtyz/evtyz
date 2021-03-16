@@ -2,8 +2,8 @@
 
 I'm a programmer based in Toronto, and a high school senior at St. Theresa of Lisieux CHS.
 
-- Find out more about me at my website, [evanzheng.com.](https://www.evanzheng.com)
-- View my resume [here!](https://www.evanzheng.com/Resume.pdf)
+- Find out more about me at my website, [evanzheng.com.](https://evanzheng.com)
+- View my resume [here!](https://evanzheng.com/Resume.pdf)
 - Check out some of the projects I've made below.
 
 <!--
