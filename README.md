@@ -1,10 +1,18 @@
 # Hi there, I'm Evan! 👋
 
-I'm a programmer based in Toronto, and a high school senior at St. Theresa of Lisieux CHS.
+I'm a CS student at the University of Waterloo. 
 
-- Find out more about me at my website, [evanzheng.com.](https://evanzheng.com)
-- View my resume [here!](https://evanzheng.com/Resume.pdf)
-- Check out some of the projects I've made below.
+This summer, I'm a software engineering intern helping to build educational tools at [Ivy Global](https://ivyglobal.com/). I'm also a front-end developer at [Loo Labs](https://loolabs.org/), a Waterloo student organization.
+
+If you're here, you might be interested in:
+- [Visiting my website, evanzheng.com](https://evanzheng.com)
+- [Getting in touch with me](https://evanzheng.com/#contacts)
+- [Viewing my resume](https://evanzheng.com/Resume.pdf)
+- [Seeing my LinkedIn](https://www.linkedin.com/in/evtyz/)
+- ... or checking out some of the projects I've made below.
+
+Enjoy!
+
 
 <!--
 **richmondvan/richmondvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
