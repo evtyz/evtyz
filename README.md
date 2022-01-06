@@ -7,7 +7,7 @@ This summer, I'm a software engineering intern helping to build educational tool
 If you're here, you might be interested in:
 - [Visiting my website, evanzheng.com](https://evanzheng.com)
 - [Getting in touch with me](https://evanzheng.com/#contacts)
-- [Viewing my resume](https://evanzheng.com/Resume.pdf)
+- [Viewing my resume](https://evanzheng.com/resume.pdf)
 - [Seeing my LinkedIn](https://www.linkedin.com/in/evtyz/)
 - ... or checking out some of the projects I've made below.
 
